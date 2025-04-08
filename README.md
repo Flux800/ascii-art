@@ -8,7 +8,7 @@ I love Coffee
 
 ###Python code
 
-'''python
+```python
 first_name = "Henry"
 last_name ="Bankole"
 first_name_initial = "H"
