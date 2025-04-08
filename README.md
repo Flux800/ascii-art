@@ -1,8 +1,14 @@
 # ascii-art
 My first Python project - ASCII art.
 
-#full name: Henry Bankole
-#fun fact: I love Coffee
+###full name: 
+Henry Bankole
+###fun fact: 
+I love Coffee
+
+###Python code
+
+'''python
 first_name = "Henry"
 last_name ="Bankole"
 first_name_initial = "H"
