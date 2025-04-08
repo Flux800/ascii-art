@@ -1,5 +1,7 @@
 # ascii-art
-My first Python project - ASCII art.
+#My first Python project - 
+
+##ASCII art.
 
 ###full name: 
 Henry Bankole
